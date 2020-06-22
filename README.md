@@ -1,9 +1,9 @@
 # path-finding-squared
 Python algorithm that finds path from start to finish in squared space.
 
-Status: Not yet working.
+Status: Not working yet.
 
-Python version: 3.6.9
+Python version: 3.6
 
 Python dependencies:
 - None
